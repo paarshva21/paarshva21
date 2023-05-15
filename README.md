@@ -3,7 +3,7 @@
 
 - 🎓 **Currently a Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 - 🔭 Currently working on **App Development in Flutter, and Machine Learning in Python.**
-- 🌱 Presently learning **Natural Language Processing and new skills in Flutter.**
+- 🌱 Also learning **Natural Language Processing and new skills in Flutter** on the side. 
 - 👯 On the lookout to collaborate on **Flutter and Machine Learning Projects.**
 - 📫 Reach me at **paarshva111@gmail.com.**
 - ⚡ Apart from coding, I love football, movies, and indie music. Happen to be an avid reader as well.
