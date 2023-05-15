@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey, Paarshva Chitaliya here!</h1>
+<h3 align="center">A passionate Flutter and AI ML Developer from India!</h3>
 
-<!--
-**paarshva21/paarshva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Currently a Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🔭 Currently working on **App Development in Flutter, and Machine Learning in Python.**
+- 🌱 Presently learning **Natural Language Processing and new skills in Flutter.**
+- 👯 On the lookout to collaborate on **Flutter and Machine Learning Projects.**
+- 📫 Reach me at **paarshva111@gmail.com.**
+- ⚡ Apart from coding, I love football, movies, and indie music. Happen to be an avid reader as well.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+The snake is eating up my contributions🐍.
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=nightowl" alt="" /></a> </p>
