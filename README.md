@@ -1,7 +1,7 @@
 <h1 align="center">Hey, Paarshva Chitaliya here!</h1>
 <h3 align="center">A passionate Flutter and AI ML Developer from India!</h3>
 
-- 🎓 **Currently a Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🎓 **At present a Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 - 🔭 Currently working on **App Development in Flutter, and Machine Learning in Python.**
 - 🌱 Also learning **Natural Language Processing and new skills in Flutter** on the side. 
 - 👯 On the lookout to collaborate on **Flutter and Machine Learning Projects.**
