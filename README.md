@@ -8,16 +8,12 @@
 - 📫 Reach me at **paarshva111@gmail.com.**
 - ⚡ Apart from coding, I love football, movies, and indie music. Happen to be an avid reader as well.
 
+# 📊 GitHub Stats:
+![paarshva21's Stats](https://github-readme-stats.vercel.app/api?username=paarshva21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![paarshva21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paarshva21&theme=vue-dark&hide_border=true)
 
-
-
-
-
-
-
-
-
+![paarshva21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paarshva21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
