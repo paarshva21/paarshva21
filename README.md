@@ -1,12 +1,12 @@
 <h1 align="center">Hey, Paarshva Chitaliya here!</h1>
 <h3 align="center">A passionate Flutter and AI ML Developer from India.</h3>
 
-- 🎓 **At present a Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🎓 **At present a Second Year Computer Engineering student at D. J. Sanghvi College of Engineering and a Flutter Intern at Binary Dots.**
 - 🔭 Currently working on **App Development in Flutter, and Machine Learning in Python.**
 - 🌱 Also learning **Natural Language Processing and new skills in Flutter** on the side. 
 - 👯 On the lookout to collaborate on **Flutter and Machine Learning Projects.**
 - 📫 Reach me at **paarshva111@gmail.com.**
-- ⚡ Apart from coding, I love football, movies, and indie music. Happen to be an avid reader as well.
+- ⚡ Other interests include football, movies, books and indie music.
 
 # 📊 GitHub Stats:
 ![paarshva21's Stats](https://github-readme-stats.vercel.app/api?username=paarshva21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
