@@ -7,6 +7,8 @@
 - 👯 On the lookout to collaborate on **Flutter and Machine Learning Projects.**
 - 📫 Reach out to me at **paarshva111@gmail.com.**
 - ⚡ Other interests include football, movies, books and indie music.
+- 🥇 Winner of Bajaj Finserv HackRx 4.0 '23.
+- 🥇 Top 6 in Android App Development track in CRCE Unscript Rookies 2k23.
 
 ## Languages and Tools
 
