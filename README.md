@@ -13,11 +13,13 @@
 - 📫 Reach out to me at **paarshva111@gmail.com.**
 - ⚡ Other interests include football, movies, books and indie music.
 
-## Languages and Tools
-
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=paarshva21&label=Profile%20views&color=0e75b6&style=flat"
     alt="paarshvachitaliya" /> 
 </p>
+
+## Languages and Tools
+
+
 
 <div align="center">
 
