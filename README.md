@@ -15,7 +15,7 @@
 
   ## Profile Views
 
-<p>  <img src="https://komarev.com/ghpvc/?username=paarshva21&label=Profile%20views&color=0e75b6&style=flat"
+<p padding: 5px>  <img src="https://komarev.com/ghpvc/?username=paarshva21&label=Profile%20views&color=0e75b6&style=flat"
     alt="paarshvachitaliya" /> 
 </p>
 
