@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Paarshva Chitaliya here!</h1>
+<h1 align="center">Hello all, Paarshva Chitaliya here!</h1>
 <h3 align="center">A passionate Flutter and AI ML Developer from India.</h3>
 
 - 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
