@@ -6,6 +6,7 @@
 - 💼 Ex **Flutter Intern** at **Binary Dots.**
 - 🧑🏻‍🔬 Presented a research paper titled **Time Quantum Optimization in Round Robin Algorithm** at NMITCON '23, an IEEE conference. It was published to the IEEE Xplore library and indexed in SCOPUS.
 - 🥇 Winner of Bajaj Finserv HackRx 4.0 '23.
+- 🥇 Winner of Smart India Hackathon '23.
 - 🥇 Winner of Special prize at TSEC Codeissance '23.
 - 🔭 Currently working on **App Development in Flutter, and Machine Learning in Python.**
 - 🌱 Also learning **Natural Language Processing and new skills in Flutter** on the side. 
