@@ -1,18 +1,19 @@
 <h1 align="center">Hello all, Paarshva Chitaliya here!</h1>
 <h3 align="center">A passionate Flutter and AI ML Developer from India.</h3>
 
-- 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
-- 🧑🏻‍🔬 Presented a research paper titled **Time Quantum Optimization in Round Robin Algorithm** at NMITCON '23, an IEEE conference. It was published to the IEEE Xplore library and indexed in SCOPUS.
-- 🥇 Winner of Bajaj Finserv HackRx 4.0 '23.
-- 🥇 Winner of Smart India Hackathon '23.
-- 🥇 Winner of Special prize at TSEC Codeissance '23.
-- 🚀 **Machine Learning Head** at **Synapse.**
-- 💼 Ex **Flutter Intern** at **Binary Dots.**
-- 🔭 Currently working on **App Development in Flutter, and Machine Learning in Python.**
-- 🌱 Also learning **Natural Language Processing and new skills in Flutter** on the side. 
-- 👯 On the lookout to collaborate on **Flutter and Machine Learning Projects.**
-- 📫 Reach out to me at **paarshva111@gmail.com.**
-- ⚡ Other interests include football, movies, books and indie music.
+- **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+-  Presented a research paper titled **Time Quantum Optimization in Round Robin Algorithm** at NMITCON '23, an IEEE conference. It was published to the IEEE Xplore library and indexed in SCOPUS.
+-  Winner of Bajaj Finserv HackRx 4.0 '23.
+- Winner of Smart India Hackathon '23.
+- Winner of Special prize at TSEC Codeissance '23.
+- Top 80 Unstoppable E-School Leaders 2024 (Unstop)
+- **Machine Learning Head** at **Synapse.**
+- Ex **Flutter Intern** at **Binary Dots.**
+- Currently working on **App Development in Flutter, and Machine Learning in Python.**
+- Also learning **Natural Language Processing and new skills in Flutter** on the side. 
+- On the lookout to collaborate on **Flutter and Machine Learning Projects.**
+- Reach out to me at **paarshva111@gmail.com.**
+- Other interests include football, movies, books and indie music.
 
 ## Profile Views
 
