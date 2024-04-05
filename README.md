@@ -10,7 +10,6 @@
 - **Machine Learning Head** and **Publicity Head** at **Synapse.**
 - Ex **Flutter Intern** at **Binary Dots.**
 - Currently working on **DSA, App Development in Flutter, and Machine Learning in Python.**
-- Also learning **Natural Language Processing and new skills in Flutter** on the side. 
 - On the lookout to collaborate on **Flutter and Machine Learning Projects.**
 - Reach out to me at **paarshva111@gmail.com.**
 - Other interests include football, movies, books and indie music.
