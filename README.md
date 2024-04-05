@@ -6,8 +6,8 @@
 -  Winner of Bajaj Finserv HackRx 4.0 '23.
 - Winner of Smart India Hackathon '23.
 - Winner of Special prize at TSEC Codeissance '23.
-- Top 80 Unstoppable E-School Leaders 2024 (Unstop)
-- **Machine Learning Head** at **Synapse.**
+- Top 80 Unstoppable E-School Leaders 2024 (Unstop).
+- **Machine Learning Head** and **Publicity Head** at **Synapse.**
 - Ex **Flutter Intern** at **Binary Dots.**
 - Currently working on **App Development in Flutter, and Machine Learning in Python.**
 - Also learning **Natural Language Processing and new skills in Flutter** on the side. 
