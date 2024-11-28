@@ -10,7 +10,7 @@
 - Winner in Software Domain of DJS Tech Expo 2024.
 - Presented a research paper titled **Time Quantum Optimization in Round Robin Algorithm** at NMITCON '23, an IEEE conference. It was published to the IEEE Xplore library and indexed in SCOPUS.
 - Top 80 Unstoppable E-School Leaders 2024 (Unstop).
-- **Ex - Machine Learning Head** and **Ex - Publicity Head** at **Synapse.**
+- Ex **Machine Learning Head** and Ex **Publicity Head** at **Synapse.**
 - Currently working on **DSA, App Development in Flutter, and Machine Learning in Python.**
 - On the lookout to collaborate on **Flutter and Machine Learning Projects.**
 - Reach out to me at **paarshva111@gmail.com.**
