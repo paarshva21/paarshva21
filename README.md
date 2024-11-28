@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter and AI ML Developer from India.</h3>
 
 - **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
-- Ex **Data Engineerign Intern** at **Bajaj Finserv Health.**
+- Ex **Data Engineering Intern** at **Bajaj Finserv Health.**
 - Ex **Flutter Intern** at **Binary Dots.**
 - Winner of Bajaj Finserv HackRx 4.0 '23.
 - Winner of Smart India Hackathon '23.
