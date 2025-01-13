@@ -1,5 +1,5 @@
 <h1 align="center">Hello all, Paarshva Chitaliya here!</h1>
-<h3 align="center">A passionate Flutter and AI ML Developer from India.</h3>
+<h3 align="center">A passionate AIML and Flutter Developer from India.</h3>
 
 - **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 - Ex **Data Engineering Intern** at **Bajaj Finserv Health.**
@@ -11,8 +11,8 @@
 - Presented a research paper titled **Time Quantum Optimization in Round Robin Algorithm** at NMITCON '23, an IEEE conference. It was published to the IEEE Xplore library and indexed in SCOPUS.
 - Top 80 Unstoppable E-School Leaders 2024 (Unstop).
 - Ex **Machine Learning Head** and Ex **Publicity Head** at **Synapse.**
-- Currently working on **DSA, App Development in Flutter, and Machine Learning in Python.**
-- On the lookout to collaborate on **Flutter and Machine Learning Projects.**
+- Currently working on **DSA, Machine Learning in Python and App Development in Flutter.**
+- On the lookout to collaborate on **Machine Learning Projects and Flutter.**
 - Reach out to me at **paarshva111@gmail.com.**
 - Other interests include football, movies, books and indie music.
 
