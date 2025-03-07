@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AIML and Flutter Developer from India.</h3>
 
 - **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- **Machine Learning Intern** at Centre for Railway Information Systems (CRIS) at Ministry of Railways.
 - Ex **Data Engineering Intern** at **Bajaj Finserv Health.**
 - Ex **Flutter Intern** at **Binary Dots.**
 - Winner of Bajaj Finserv HackRx 4.0 '23.
